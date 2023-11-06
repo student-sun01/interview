@@ -5,7 +5,7 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" },
       {
-        text: "源码",
+        text: "我的",
         items: [
           { text: "掘金", link: "https://juejin.cn/user/899878530582816" },
           { text: "Github", link: "https://github.com/student-sun01" }
@@ -37,11 +37,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: "标签", // 默认文案 “分类”
+        text: "博客", // 默认文案 “分类”
       },
       tag: {
         location: 4, // 在导航栏菜单中所占的位置，默认4
-        text: "其他", // 默认文案 “标签”
+        text: "Tag", // 默认文案 “标签”
       },
     },
     author: 'sun sai'
