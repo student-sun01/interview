@@ -79,11 +79,12 @@ module.exports = {
       {
         audios: [
           {
-            name: "可不可以",
-            artist: "张紫豪",
-            url: "https://www.ihaoge.net/server/1/285927221.mp3",
+            name: "有多少人和我一样",
+            artist: "小洲",
+            url: "https://www.ihaoge.net/server/1/268113779.mp3",
+            
             cover:
-              "https://star.kuwo.cn/star/starheads/180/67/69/4785566.jpg",
+              "https://pic.616pic.com/photoone/00/00/76/618cea01266267862.jpg",
           },
         ],
         // 是否默认缩小
